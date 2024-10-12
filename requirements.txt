@@ -2,13 +2,9 @@ webscout
 rich
 streamlit
 colorama
+colorlog
 pyreqwest_impersonate
 lxml_html_clean
 gradio_client
 psutil
-yaspinpyreqwest_impersonate
-lxml_html_clean
-gradio_client
-psutil
-colorlog
 yaspin
