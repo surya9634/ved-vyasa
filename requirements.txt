@@ -1,3 +1,15 @@
 webscout
 rich
 streamlit
+colorama
+pyreqwest_impersonate
+lxml_html_clean
+gradio_client
+psutil
+colorlog
+yaspinpyreqwest_impersonate
+lxml_html_clean
+gradio_client
+psutil
+colorlog
+yaspin
