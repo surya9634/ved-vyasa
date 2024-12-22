@@ -1,4 +1,5 @@
 webscout
+html5lib
 rich
 streamlit
 colorama
